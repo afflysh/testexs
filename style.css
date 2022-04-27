@@ -33,7 +33,7 @@ body {
     margin: 0 auto;
     width: 100%;
     background-size: cover;
-    background-color: rgb(94, 94, 116);
+    background-color: rgb(255, 255, 255);
 }
 .next2 {
     height: 130px;
@@ -118,7 +118,7 @@ font-size: 20px;
     text-decoration: none;
     vertical-align: top;
    display: inline-block;
-   color: white;
+   color: rgb(0, 0, 0);
    font-size: 25px;
    
 }
